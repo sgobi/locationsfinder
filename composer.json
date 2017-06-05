@@ -1,6 +1,7 @@
 {
     "name": "sgobi/locationfinder",
     "description": "locationfinder",
+     "license": "MIT",
     "authors": [
         {
             "name": "Gobikrishna",
